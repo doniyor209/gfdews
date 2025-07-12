@@ -1,0 +1,42 @@
+.card {
+    width: 534px;
+    background-color: white;
+    border-radius: 10px;
+    opacity: 1;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    padding: 14px 30px;
+}
+
+.card h2 {
+    font-family: Rubik;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    text-transform: capitalize;
+    color: black;
+}
+
+.card span {
+    font-family: Rubik;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 180%;
+    letter-spacing: 0%;
+    color: #808080;
+}
+
+.card p {
+    font-family: Rubik;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 180%;
+    letter-spacing: 0%;
+    color: black;
+}
+.card img{
+    height: 130%;
+    width: 72px;
+}
